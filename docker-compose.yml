@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  hydra-parser:
+    build: .
+    container_name: hydra_parser_container
+
+    environment:
+      - MIN_STRING_LEN=4
+      - ENTROPY_THRESHOLD=6.5
+    
+    volumes:
+      - .:/app
+    
