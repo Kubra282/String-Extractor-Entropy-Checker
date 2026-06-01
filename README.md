@@ -19,7 +19,7 @@
 * **Danışman:** Keyvan Arasteh Abbasabad
 * **Hazırlayan:** Kübra Fison
 * **Üniversite:** İstinye Üniversitesi
-* **Ders:** Tersine Mühendislik (Reverse Engineering)
+* **Ders:** BGT210 Tersine Mühendislik (Reverse Engineering)
 * **Proje Konusu:** İkili (Binary) Dosyalarda Shannon Entropisi ve Statik String Analizi
 
 ---
